@@ -1,0 +1,40 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "さんのアナリティクスです",
+            "size": "sm",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "button",
+        "style": "primary",
+        "action": {
+          "type": "uri",
+          "label": "スマホ用表示",
+          "uri": "line://app/1614848598-zWKkgVb2?p=1&id=Uf4cf0746c748bfc8059f92f618e6550f"
+        }
+      },
+      {
+        "type": "button",
+        "style": "primary",
+        "action": {
+          "type": "uri",
+          "label": "PC用表示",
+          "uri": "https://www.yuki0311.com/pikapikagroup/data.php?p=1&id=Uf4cf0746c748bfc8059f92f618e6550f"
+        }
+      }
+    ]
+  }
+}
