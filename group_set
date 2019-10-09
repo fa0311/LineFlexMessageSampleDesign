@@ -1,0 +1,248 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "xl",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "参加メッセージ",
+                "gravity": "center",
+                "flex": 4,
+                "wrap": true
+              },
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/off.png",
+                "action": {
+                  "type": "message",
+                  "text": "参加メッセージoff"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "xl",
+            "contents": [
+              {
+                "type": "text",
+                "text": "登録メッセージ",
+                "gravity": "center",
+                "flex": 4,
+                "wrap": true
+              },
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/off.png",
+                "action": {
+                  "type": "message",
+                  "text": "登録メッセージoff"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "xl",
+            "contents": [
+              {
+                "type": "text",
+                "text": "権限",
+                "gravity": "center",
+                "flex": 4,
+                "wrap": true
+              },
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/off.png"
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "xl",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "キリ番メッセージ",
+                "gravity": "center",
+                "flex": 4,
+                "wrap": true
+              },
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/off.png",
+                "action": {
+                  "type": "message",
+                  "text": "キリ番メッセージoff"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "xl",
+            "contents": [
+              {
+                "type": "text",
+                "text": "朝の挨拶メッセージ",
+                "gravity": "center",
+                "flex": 4,
+                "wrap": true
+              },
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/off.png",
+                "action": {
+                  "type": "message",
+                  "text": "朝の挨拶メッセージoff"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "xl",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ポケモンGO最新情報",
+                "gravity": "center",
+                "flex": 4,
+                "wrap": true
+              },
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/off.png",
+                "action": {
+                  "type": "message",
+                  "text": "ポケモンGO最新情報通知off"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "xl",
+            "contents": [
+              {
+                "type": "text",
+                "text": "登録メッセージ確率",
+                "gravity": "center",
+                "flex": 4,
+                "wrap": true,
+                "action": {
+                  "type": "message",
+                  "text": "登録メッセージ確率変更"
+                }
+              },
+              {
+                "type": "text",
+                "text": "100%",
+                "action": {
+                  "type": "message",
+                  "text": "登録メッセージ確率変更"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "参加メッセージ",
+                "size": "md",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "メッセージ確認",
+                "size": "sm",
+                "color": "#999999",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          }
+        ]
+      }
+    }
+  ]
+}
