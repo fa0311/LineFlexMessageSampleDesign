@@ -1,0 +1,1053 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "このグループのアナリティクスです",
+                  "size": "sm",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "button",
+              "style": "primary",
+              "action": {
+                "type": "uri",
+                "label": "スマホ用表示",
+                "uri": "line://app/1614848598-zWKkgVb2?p=2&id=C09a35c5a64baea7755079232665a2c6e"
+              }
+            },
+            {
+              "type": "button",
+              "style": "primary",
+              "action": {
+                "type": "uri",
+                "label": "PC用表示",
+                "uri": "https://www.yuki0311.com/pikapikagroup/data.php?p=2&id=C09a35c5a64baea7755079232665a2c6e"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Ububuntu",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "50.620623806493%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "9543回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "ふぁ",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "100%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "18852回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "むらさき＊group",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "33.757691491619%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "6364回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "ᔆᵘᙚᑋⁱ",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "29.317844260556%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "5527回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "輝一",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "12.396562698918%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "2337回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "キッシンジャー[力(自衛権)の",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "8.423509441969%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "1588回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "Shoma",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "22.496286866115%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "4241回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "ཝོぽきだおོཝ",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "8.3598557182262%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "1576回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "菊川琢朗 JE6TZE",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "20.17823042648%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "3804回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "kaji⁂",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "8.0097602376406%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "1510回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "ヤマグチ",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "13.330150647146%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "2513回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "財前",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "97.082537661787%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "18302回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "ゆき",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "8.5508168894547%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "1612回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "kiku*60",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "1.8247400806281%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "344回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "みっちゃんんん",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "1.936134097178%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "365回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "いぶき",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "40.902821981753%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "7711回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "Ud0И❖Protect",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "0.76914916189264%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "145回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "TAKU@バカ代表",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "4.1427965202631%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "781回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "ナギ",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "27.546148949714%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "5193回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "ベルリンの壁",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "0.89115213239975%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "168回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "むらさき✱取り置き",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "6.6465096541481%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "1253回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "むらさき✱取り置き",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "2.1323997453851%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "402回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "ながねぎ",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "4.8854232972629%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "921回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "Bang Xiao",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "1.0502864417568%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "198回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "種子田^_^",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "0.61531932951411%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "116回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "amateur 無銭",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "1.9308296201994%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "364回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                },
+                {
+                  "type": "text",
+                  "text": "Fubuki",
+                  "size": "sm",
+                  "wrap": true
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " ",
+                      "size": "xxs",
+                      "position": "absolute"
+                    }
+                  ],
+                  "width": "7.6437513261192%",
+                  "backgroundColor": "#90EE90",
+                  "height": "18px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "1441回",
+                      "size": "xxs",
+                      "color": "#8C8C8C"
+                    }
+                  ],
+                  "offsetBottom": "15px"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
