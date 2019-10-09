@@ -1,0 +1,1305 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "offsetTop": "10px",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "12px",
+            "offsetTop": "-10px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/Google.png",
+                "size": "xs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "70px",
+            "offsetTop": "-92px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/search.png",
+                "size": "5xl",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "position": "absolute",
+            "offsetStart": "85px",
+            "offsetTop": "11px",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "github",
+                "size": "xs",
+                "wrap": true,
+                "color": "#8C8C8C"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "The world's leading software development platform · GitHub",
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://github.com/"
+                },
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "GitHub brings together the world's largest community of developers to discover, \nshare, and build better software. From open source projects to private team \nrepositories, we're your all-in-one platform for collaborative development.",
+                "size": "xxs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://github.com/"
+                },
+                "color": "#8C8C8C",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "height": "40px",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/dl.png"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "-12px",
+            "offsetStart": "-5px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "　　　",
+                "size": "md",
+                "action": {
+                  "type": "message",
+                  "label": "button",
+                  "text": "https://github.com/"
+                },
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "offsetTop": "10px",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "12px",
+            "offsetTop": "-10px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/Google.png",
+                "size": "xs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "70px",
+            "offsetTop": "-92px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/search.png",
+                "size": "5xl",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "position": "absolute",
+            "offsetStart": "85px",
+            "offsetTop": "11px",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "github",
+                "size": "xs",
+                "wrap": true,
+                "color": "#8C8C8C"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "GitHub Desktop | Simple collaboration from your desktop",
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://desktop.github.com/"
+                },
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "Great for pairing and excellent for sending a little love/credit to that special \nsomeone who helped fix that gnarly bug of yours. See the attribution on the \nhistory page, undo an accidental attribution, and see the co-authors on github.\ncom.",
+                "size": "xxs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://desktop.github.com/"
+                },
+                "color": "#8C8C8C",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "height": "40px",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/dl.png"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "-12px",
+            "offsetStart": "-5px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "　　　",
+                "size": "md",
+                "action": {
+                  "type": "message",
+                  "label": "button",
+                  "text": "https://desktop.github.com/"
+                },
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "offsetTop": "10px",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "12px",
+            "offsetTop": "-10px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/Google.png",
+                "size": "xs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "70px",
+            "offsetTop": "-92px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/search.png",
+                "size": "5xl",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "position": "absolute",
+            "offsetStart": "85px",
+            "offsetTop": "11px",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "github",
+                "size": "xs",
+                "wrap": true,
+                "color": "#8C8C8C"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "GitHub · GitHub",
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://github.com/github"
+                },
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "How people build software. GitHub has 315 repositories available. Follow their \ncode on GitHub.",
+                "size": "xxs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://github.com/github"
+                },
+                "color": "#8C8C8C",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "height": "40px",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/dl.png"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "-12px",
+            "offsetStart": "-5px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "　　　",
+                "size": "md",
+                "action": {
+                  "type": "message",
+                  "label": "button",
+                  "text": "https://github.com/github"
+                },
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "offsetTop": "10px",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "12px",
+            "offsetTop": "-10px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/Google.png",
+                "size": "xs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "70px",
+            "offsetTop": "-92px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/search.png",
+                "size": "5xl",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "position": "absolute",
+            "offsetStart": "85px",
+            "offsetTop": "11px",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "github",
+                "size": "xs",
+                "wrap": true,
+                "color": "#8C8C8C"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Discover gists · GitHub",
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://gist.github.com/"
+                },
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "GitHub Gist: instantly share code, notes, and snippets.",
+                "size": "xxs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://gist.github.com/"
+                },
+                "color": "#8C8C8C",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "height": "40px",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/dl.png"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "-12px",
+            "offsetStart": "-5px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "　　　",
+                "size": "md",
+                "action": {
+                  "type": "message",
+                  "label": "button",
+                  "text": "https://gist.github.com/"
+                },
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "offsetTop": "10px",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "12px",
+            "offsetTop": "-10px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/Google.png",
+                "size": "xs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "70px",
+            "offsetTop": "-92px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/search.png",
+                "size": "5xl",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "position": "absolute",
+            "offsetStart": "85px",
+            "offsetTop": "11px",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "github",
+                "size": "xs",
+                "wrap": true,
+                "color": "#8C8C8C"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "GitHub - Wikipedia",
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://en.wikipedia.org/wiki/GitHub"
+                },
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "GitHub is an American company that provides hosting for software development \nversion control using Git. It is a subsidiary of Microsoft, which acquired the \ncompany in 2018 for $7.5 billion. It offers all of the distributed version control and\n ...",
+                "size": "xxs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://en.wikipedia.org/wiki/GitHub"
+                },
+                "color": "#8C8C8C",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "height": "40px",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/dl.png"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "-12px",
+            "offsetStart": "-5px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "　　　",
+                "size": "md",
+                "action": {
+                  "type": "message",
+                  "label": "button",
+                  "text": "https://en.wikipedia.org/wiki/GitHub"
+                },
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "offsetTop": "10px",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "12px",
+            "offsetTop": "-10px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/Google.png",
+                "size": "xs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "70px",
+            "offsetTop": "-92px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/search.png",
+                "size": "5xl",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "position": "absolute",
+            "offsetStart": "85px",
+            "offsetTop": "11px",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "github",
+                "size": "xs",
+                "wrap": true,
+                "color": "#8C8C8C"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "GitHub API v3 | GitHub Developer Guide",
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://developer.github.com/v3/"
+                },
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "By default, all requests to https://api.github.com receive the v3 version of the \nREST API. We encourage you to explicitly request this version via the Accept \nheader. Accept: application/vnd.github.v3+json. For information about GitHub's \nGraphQL ...",
+                "size": "xxs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://developer.github.com/v3/"
+                },
+                "color": "#8C8C8C",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "height": "40px",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/dl.png"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "-12px",
+            "offsetStart": "-5px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "　　　",
+                "size": "md",
+                "action": {
+                  "type": "message",
+                  "label": "button",
+                  "text": "https://developer.github.com/v3/"
+                },
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "offsetTop": "10px",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "12px",
+            "offsetTop": "-10px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/Google.png",
+                "size": "xs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "70px",
+            "offsetTop": "-92px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/search.png",
+                "size": "5xl",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "position": "absolute",
+            "offsetStart": "85px",
+            "offsetTop": "11px",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "github",
+                "size": "xs",
+                "wrap": true,
+                "color": "#8C8C8C"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "GitHub Student Developer Pack - GitHub Education",
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://education.github.com/pack"
+                },
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "The GitHub Student Developer Pack is all you need to learn how to code. Get \nyour Pack now.",
+                "size": "xxs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://education.github.com/pack"
+                },
+                "color": "#8C8C8C",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "height": "40px",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/dl.png"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "-12px",
+            "offsetStart": "-5px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "　　　",
+                "size": "md",
+                "action": {
+                  "type": "message",
+                  "label": "button",
+                  "text": "https://education.github.com/pack"
+                },
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "offsetTop": "10px",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "12px",
+            "offsetTop": "-10px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/Google.png",
+                "size": "xs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "70px",
+            "offsetTop": "-92px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/search.png",
+                "size": "5xl",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "position": "absolute",
+            "offsetStart": "85px",
+            "offsetTop": "11px",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "github",
+                "size": "xs",
+                "wrap": true,
+                "color": "#8C8C8C"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Configuring two-factor authentication - GitHub Help",
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://help.github.com/en/articles/configuring-two-factor-authentication"
+                },
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "If you're a member, billing manager, or outside collaborator to a private repository \nof an organization that requires two-factor authentication, you must leave the \norganization before you can disable 2FA on GitHub. If you disable 2FA, you will ...",
+                "size": "xxs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://help.github.com/en/articles/configuring-two-factor-authentication"
+                },
+                "color": "#8C8C8C",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "height": "40px",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/dl.png"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "-12px",
+            "offsetStart": "-5px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "　　　",
+                "size": "md",
+                "action": {
+                  "type": "message",
+                  "label": "button",
+                  "text": "https://help.github.com/en/articles/configuring-two-factor-authentication"
+                },
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "offsetTop": "10px",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "12px",
+            "offsetTop": "-10px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/Google.png",
+                "size": "xs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "70px",
+            "offsetTop": "-92px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/search.png",
+                "size": "5xl",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "position": "absolute",
+            "offsetStart": "85px",
+            "offsetTop": "11px",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "github",
+                "size": "xs",
+                "wrap": true,
+                "color": "#8C8C8C"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "GitHub Status",
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://www.githubstatus.com/"
+                },
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "Welcome to GitHub's home for real-time and historical data on system \nperformance.",
+                "size": "xxs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://www.githubstatus.com/"
+                },
+                "color": "#8C8C8C",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "height": "40px",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/dl.png"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "-12px",
+            "offsetStart": "-5px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "　　　",
+                "size": "md",
+                "action": {
+                  "type": "message",
+                  "label": "button",
+                  "text": "https://www.githubstatus.com/"
+                },
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "offsetTop": "10px",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "12px",
+            "offsetTop": "-10px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/Google.png",
+                "size": "xs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "70px",
+            "offsetTop": "-92px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/search.png",
+                "size": "5xl",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "https://google.com"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "position": "absolute",
+            "offsetStart": "85px",
+            "offsetTop": "11px",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "github",
+                "size": "xs",
+                "wrap": true,
+                "color": "#8C8C8C"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "GitHub (@github) | Twitter",
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://twitter.com/github?lang=mr"
+                },
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "Since GitHub Actions launched in beta last year, developers have created \nthousands of shareable workflows. Need some ... How is @IBM using GitHub \nEnterprise to gain insights into their internal coding practices? Hear from \nbusiness leaders ...",
+                "size": "xxs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://twitter.com/github?lang=mr"
+                },
+                "color": "#8C8C8C",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "height": "40px",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/dl.png"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "-12px",
+            "offsetStart": "-5px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "　　　",
+                "size": "md",
+                "action": {
+                  "type": "message",
+                  "label": "button",
+                  "text": "https://twitter.com/github?lang=mr"
+                },
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
