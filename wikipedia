@@ -1,0 +1,124 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "offsetTop": "10px",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "15px",
+            "offsetTop": "2px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/wiki.png",
+                "size": "xxs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://ja.wikipedia.org/"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "absolute",
+            "offsetStart": "60px",
+            "offsetTop": "-90px",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/search.png",
+                "size": "5xl",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://ja.wikipedia.org/?curid=1"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "position": "absolute",
+            "offsetStart": "75px",
+            "offsetTop": "13px",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "git",
+                "size": "xs",
+                "wrap": true,
+                "color": "#4C4C4C"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Git（ギット「」『GitPro』Git--distributed-is-the-new-centralized\nSecureShellSSH\nFileTransferProtocolFTP/FTPS:ただし、もはや使うべきではないとされている。\n\n以前はrsyncも使用できたが、2.8.0で廃止された。\n\n",
+                "size": "xxs",
+                "action": {
+                  "type": "uri",
+                  "label": "button",
+                  "uri": "line://app/1614848598-WgbRMj8l?url=https://ja.wikipedia.org/?curid=1"
+                },
+                "color": "#4C4C4C",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "position": "relative",
+            "offsetTop": "30px",
+            "offsetStart": "2px",
+            "height": "40px",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://yuki0311.com/pikapikagroup/imagelist/dl.png"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "position": "relative",
+            "offsetTop": "-12px",
+            "offsetStart": "-5px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "　　　",
+                "size": "md",
+                "action": {
+                  "type": "message",
+                  "label": "button",
+                  "text": "https://ja.wikipedia.org/?curid=1"
+                },
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
