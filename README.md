@@ -1,4 +1,4 @@
-# line_flex_json
+# LineFlexMessageSampleDesign
 json形式のlineAPIデザインです
 
 
